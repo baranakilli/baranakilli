@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m a Full Stack Developer<br>🔭 I’m currently working on "smart-face-detector" project<br>📫 How to reach me: akillibaran@hotmail.com
+👋 Hi, I’m @baranakilli<br>🖥️ I’m a Full Stack Developer<br>🔭 I’m currently working on "smart-face-detector" project<br>📫 How to reach me: akillibaran@hotmail.com
 
 
 ## 🌐 Socials:
