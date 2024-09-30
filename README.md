@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Baran Akıllı<br>🌐 I’m a Full-Stack Web Developer<br>💻 Currently freelancing on Upwork<br>📫 Reach me at akillibaran@hotmail.com
+👋 Hi, I’m Baran AKILLI<br>🌐 I’m a Full-Stack Web Developer<br>💻 Currently freelancing on Upwork<br>📫 Reach me at akillibaran@hotmail.com
 
 
 ## 🌐 Socials:
